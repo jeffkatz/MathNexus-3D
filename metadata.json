@@ -1,0 +1,8 @@
+{
+  "name": "MathNexus 3D",
+  "description": "A futuristic mathematical visualization engine powered by Gemini 2.5. Explore 3D functions, parametric surfaces, and generate cinematic AI videos of complex mathematical concepts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
